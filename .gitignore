@@ -1,0 +1,5 @@
+.env
+.zig-cache/
+
+# used for finding and approximate distribution of my hash function
+words.txt
